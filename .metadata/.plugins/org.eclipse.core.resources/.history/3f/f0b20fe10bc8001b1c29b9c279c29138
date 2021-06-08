@@ -1,0 +1,5 @@
+package com.capgemini.sampleproject;
+
+public class Hello {
+
+}
